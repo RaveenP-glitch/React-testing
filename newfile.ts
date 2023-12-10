@@ -51,7 +51,7 @@ class Employee{
 }
 
 let emp1 = new Employee("Raveen");
-console.log(emp1.employeeName);
+console.log(emp1.employeeName);    
 emp1.greet();
 
 class Manager extends Employee{
