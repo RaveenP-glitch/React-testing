@@ -2,6 +2,7 @@
 // document.getElementById("p1").innerHTML = "Hello " + lastName;
 
 let userName = "Bro Code";
+let fullName = "Raveen Panditha";
 
 console.log(userName.length);
 let firstLetter = userName.charAt(0);
