@@ -1,14 +1,8 @@
 
-// document.getElementById("p1").innerHTML = "Hello " + lastName;
+//method chaining = calling one method after another in one continous line of code.
 
-let userName = "Bro Code";
-let fullName = "Raveen Panditha";
+let userName = "bro";
 
-console.log(userName.length);
-let firstLetter = userName.charAt(0);
+let letter = userName.charAt(0);
 
-console.log(firstLetter);
-
-let lastName = userName.slice(4);
-
-console.log(lastName);
+console.log(letter);
