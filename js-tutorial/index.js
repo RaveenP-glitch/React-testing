@@ -1,8 +1,8 @@
 
-//method chaining = calling one method after another in one continous line of code.
+document.getElementById("myButton").onclick = function(){
+    if(document.getElementById("myCheckBox").checked == true){
 
-let userName = "bro";
-
-let letter = userName.charAt(0);
-
-console.log(letter);
+    }else{
+        
+    }
+}
